@@ -1,5 +1,5 @@
 # CSV Mysql Loader
-[![PyPI version](https://img.shields.io/pypi/v/csv-db-loader)](https://pypi.org/project/csv-db-loader//)
+[![PyPI version](https://img.shields.io/pypi/v/csv-db-loader)](https://pypi.org/project/csv-db-loader/)
 
 **csv_db_loader** is a Python tool that allows you to easily load data from CSV files into a database with flexibility for custom data manipulation. You can transform and manipulate the data before storing it in the database, making it a versatile solution for data import projects.
 
