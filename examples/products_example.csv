@@ -1,0 +1,12 @@
+id,name,code,quantity ,country_code,owner_email,sold,due_date
+0,name0,123321,100,AR,name0@mail.com,yes,2023-09-18 15:25:30
+1,name1,324523,2100,AR,name1@mail.com,yes,2023-09-19 15:25:30
+2,name2,253262,3224,AR,name2@mail.com,yes,2023-09-20 15:25:30
+3,name3,234123,2566,AR,name3@mail.com,no,2023-09-21 15:25:30
+4,name4,1235465,420,ES,name4@mail.com,no,2023-09-22 15:25:30
+5,name5,63478,6969,ES,name5@mail.com,yes,2023-09-23 15:25:30
+6,name6,42366,23212,ES,name6@mail.com,yes,2023-09-24 15:25:30
+7,name7,623342,20000,US,name7@mail.com,no,2023-09-25 15:25:30
+8,name8,42367,300,US,name8@mail.com,no,2023-09-26 15:25:30
+9,name9,23789,1,US,name9@mail.com,yes,2023-09-27 15:25:30
+10,name10,23436567,5,US,name10@mail.com,yes,2023-09-28 15:25:30
